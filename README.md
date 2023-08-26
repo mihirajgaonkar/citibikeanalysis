@@ -36,5 +36,5 @@ In this analysis, we focused on answering the following questions:
 
 The exploratory data analysis of the June 2023 bike ride data provided valuable insights into user behavior, popular routes, and usage patterns. This analysis can be used to make informed decisions for improving bike ride services and user experience.
 
-For detailed code and findings, please refer to the [Jupyter Notebook](link_to_jupyter_notebook) in this repository.
+For detailed code and findings, please refer to the [Jupyter Notebook](Citibike June data first draft .ipynb) in this repository.
 
