@@ -19,7 +19,7 @@ In this analysis, we focused on answering the following questions:
 
 4. **Most Used Route**: the most used route are near the [Rockefeller Park](https://www.google.com/maps?sca_esv=560358764&rlz=1C1VDKB_enUS1046US1046&output=search&q=rockefeller+park+nyc&source=lnms&entry=mc&sa=X&ved=2ahUKEwjo_rqk9fqAAxWskYkEHXzuDSQQ0pQJegQIDRAB) region, it provides a secnic view by the river and seems to be a good spot to hang out during the summers, PS I have never been to new york but looking at the place through google maps street view seemed like one I would love to visit 😄
 
-5. **Rides per Day**: Analyzed the count of rides for each day to spot usage trends.
+5. **Rides per Day**: Analyzed the count of rides for each day to spot usage trends, the average rides per day were 119477
 
 6. **Weekdays vs. Weekends**: Explored the differences in user activity between weekdays and weekends, but there isn't any co relation or spike in usage, during the weekends when compared to weekdays, the weather on weekends could also be a affecting factor and since we have only 4 weekends we need to analyze the data over previous months to find inference. This corroborates our statement that citibikes are used for commute for work
 
